@@ -1,0 +1,178 @@
+{
+    "Titans": [
+     {"id": 1,
+            "name": "Armored Titan" ,
+            "img": "https://i.imgur.com/gJvXoHVb.jpg",
+            "abilities": {
+                "ability1": {
+                    "ability": "Armored Skin",
+                    "description": "The defining feature of the Armored Titan was the all-encompassing layer of plated, armor-like segments of hardened skin protecting the Titan body. This armor was capable of shielding the Titan from significant amounts of damage, shielding direct hit from a cannon, breaking ultrahard steel blades of vertical maneuvering equipment when struck."
+                },
+                "ability2": {
+                    "ability": "Hardening",
+                    "description": "The Armored Titan was capable of utilizing crystal-like hardening around its body to at least some extent. The Armored Titan could also use this ability to create claws on its hands and feet which could be used to scale the Wall of Shiganshina District with ease."
+                }
+            },
+            "combatRank": 95 ,
+            "battleIQ": 87 ,
+            "yearsAsTitan": 8,
+            "nation": "Marley",
+            "humanForm": "Renier" 
+            },
+     {"id": 2,
+        "name": "Colossus Titan" ,
+        "img": "https://i.imgur.com/TZafGsM.jpeg",
+        "abilities": {
+            "ability1": {
+                "ability": "Explosive Transformation",
+                "description": "Although all Titans generated enormous amounts of heat and energy when transforming, the Colossus Titan took this to the next level. Its users could control the energy produced during their transformation to create various effects."
+            },
+            "ability2": {
+                "ability": "Steam emmission",
+                "description": "The unique ability possessed by the Colossus Titan appears to have been significant control over the amounts of steam emitted by its Titan body. In normal circumstances, Titans emitted steam from wounds while regenerating, and their bodies would evaporate completely into steam after receiving a killing blow. However, the Colossus Titan was capable of emitting great amounts of steam at will."
+            }
+        },
+        "combatRank": 60,
+        "battleIQ": 35,
+        "yearsAsTitan": 3,
+        "nation": "Paradis Island" ,
+        "humanForm": "Armin"
+        }, 
+     {"id":3,
+        "name": "Attack Titan",
+        "img": "https://i.imgur.com/c3He3pbb.jpg",
+        "abilities": {
+            "ability1": {
+                 "ability": "Future memory inheritance",
+                 "description": "While all of the Nine Titans could receive memories of past inheritors, the Attack Titan could also receive memories of inheritors yet to come"
+            },
+            "ability2": {
+                "ability": "",
+                "description": ""
+            }
+        }, 
+        "combatRank": 99,
+        "battleIQ": 85,
+        "yearsAsTitan": 5,
+        "nation": "Paradis Island",
+        "humanForm": "Eren"
+        }, 
+     {"id": 4,
+        "name": "Female Titan" ,
+        "img": "https://i.imgur.com/dlCIqH2b.jpg",
+        "abilities": {
+            "ability1": {
+                "ability": "Titan Attraction",
+                "description": "The Female Titan was able to exercise a degree of influence over Pure Titans through a scream-based ability."
+            },
+            "ability2": {
+                "ability": "Versatility",
+                "description": "The Female Titan was also known for its high endurance and mobility, the greatest instance of this being the journey to the Walls, where Annie Leonhart ran what can be deduced as near to the coastline of Paradis Island to the distant Walls."
+            }
+        }, 
+        "combatRank": 93,
+        "battleIQ": 99,
+        "yearsAsTitan": 7,
+        "nation": "Marley",
+        "humanForm": "Annie" 
+        },
+    {"id": 5,
+        "name": "Jaw Titan",
+        "img": "https://i.imgur.com/jElFSOj.jpeg",
+        "abilities": {
+            "ability1": {
+                "ability": "Crushing Jaw",
+                "description": "As its name implies, the Jaw Titan possessed incredible biting and crushing strength in its jaws and claws which could be used with devastating efficiency against both Titans and man-made structures.Its claws were strong enough to cause severe damage to armored opponents such as turrets and even the crystal shell created by the War Hammer Titan."
+            },
+            "ability2": {
+                "ability": "Speed",
+                "description": "Those who held the power of the Jaw Titan demonstrated significant amounts of speed and agility in their Titan form. They could even move fast enough to catch most of the other Nine Titans off guard. "
+            }
+        }, 
+        "combatRank": 75,
+        "battleIQ": 64,
+        "yearsAsTitan": 1,
+        "nation": "Marley",
+        "humanForm": "Falco"
+        },
+    {"id": 6,
+        "name": "Cart Titan",
+        "img": "https://i.imgur.com/IQ9J2Sz.png",
+        "abilities": {
+            "ability1": {
+                "ability": "Quadurpedal form",
+                "description": "The Cart Titan stood out as unusual among the Nine Titans for its quadrupedal form, which may have been the source of its Cart Titan name. As a side-effect to inheriting the Cart Titan and staying in its form for extended periods of time, the inheritor was liable to forget how to walk normally and would instead crawl like the Cart Titan."
+            },
+            "ability2": {
+                "ability": "Endurance",
+                "description": "The Cart Titan possessed a level of endurance greater than that of the other members of the Nine Titans, allowing for the inheritor to partake in long missions without the need for rest. Its absorption resistance allowed it to maintain its Titan form for long periods of time."
+            }
+        }, 
+        "combatRank": 25,
+        "battleIQ": 75,
+        "yearsAsTitan": 5,
+        "nation": "Marley",
+        "humanForm": "Pieck"
+        },
+    {"id": 7,
+        "name": "Beast Titan" ,
+        "img": "https://i.imgur.com/hyU5JI4.jpeg",
+        "abilities": {
+            "ability1": {
+                "ability": "Fastball",
+                "description": "Zeke Yeager's ape-like Beast Titan possessed a devastating ability to throw objects with great accuracy and immense destructive capability. This was notably used during the battle of Shiganshina District to wipe out most of the Survey Corps with crushed rocks."
+            },
+            "ability2": {
+                "ability": "Titan creation",
+                "description": "With his royal blood, one of the most perilous attributes of Zeke's Beast Titan was the ability to turn Subjects of Ymir into Titans. If a person was given Zeke's spinal fluid, Zeke would then be able to transform him/her with a roar, much like the scream-based abilities of the Founding Titan and the Female Titan."
+            }
+        },
+        "combatRank": 88,
+        "battleIQ": 97,
+        "yearsAsTitan": 7,
+        "nation":"Marley",
+        "humanForm":"Zeke"
+        },
+     {"id": 8,
+        "name": "WarHammer Titan" ,
+        "img": "https://i.imgur.com/YQJlae8.png",
+        "abilities": {
+            "ability1": {
+                "ability": "Remote Operation",
+                "description": "Contrary to any other member of the Nine Titans, it was possible for the War Hammer Titan to remove its control center from the nape. Under such circumstances, the body of the Titan would be connected to its human operator by a long cable of flesh."
+            },
+            "ability2": {
+                "ability": "Structural Hardening",
+                "description": "The War Hammer Titan could produce and manipulate structures that were made of hardened Titan flesh. These structures could be weaponized—for example, forming pikes large enough to impale and lift a 15m Titan, flooding areas with protrusions such as spikes, and manifesting the Titan's signature war hammer."
+            }
+        }, 
+        "combatRank": 88,
+        "battleIQ": 79,
+        "yearsAsTitan": 4,
+        "nation": "Marley",
+        "humanForm": "unknown"
+        },
+    {"id": 9,
+        "name": "Founding Titan" ,
+        "img": "https://i.imgur.com/ba37Lbq.jpeg",
+        "abilities":  {
+            "ability1": {
+                "ability": "Memory Manipulation",
+                "description": "The Founding Titan was able to modify the minds and memories of the Subjects of Ymir, even entire populations at once. This ability was related to the Titan control ability: As noted by Erwin Smith, Titans are simply transformed humans (specifically, the Subjects of Ymir); therefore, the screams that control the minds of the former should be able to affect the latter as well. It was used by Karl Fritz to make the Subjects of Ymir inside the Walls forget the history of the world before the Walls' installation."
+            },
+            "ability2": {
+                "ability": "Clairvoyance",
+                "description": "Similar to the Attack Titan's future memory inheritance ability that allows inheritors to receive future memories from future inheritors, the Founding Titan can take things to a much greater scale and directly influence things in the past, although only to preserve history the way it's already played out. It also enables inheritors the ability to perceive time in a non-linear fashion, being able to see the past, present, and future simultaneously."
+            }
+        },
+        "combatRank": 77,
+        "battleIQ": 92,
+        "yearsAsTitan": 2000,
+        "nation": "Eldia",
+        "humanForm": "Ymir"
+        }
+    ]
+}
+
+
+

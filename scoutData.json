@@ -1,0 +1,74 @@
+{
+  "Eldians": [
+    {
+      "id": 1,
+      "name": "Eren Yeager",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEVyZE7e6jAND0IuKaBg_Ve7iDxvvF-LkeAEBkBvm_ZQ3kiVNLZStiBKrUmCl_fww_nw&usqp=CAU",
+      "regiment": "Scout",
+      "quotes": "I'm Gonna Destroy Them! Every Last One Of Those Animals That's On This Earth!"
+    },
+    {
+      "id": 2,
+      "name": "Erwin Smith",
+      "img": "https://static3.srcdn.com/wordpress/wp-content/uploads/2021/05/AttackOnTitan-ErwinsMistakes-FeatureImage.jpeg?q=50&fit=crop&w=960&h=500&dpr=1.5",
+      "regiment": "Scout",
+      "quotes": "This Moment! This Battle! Humanity's Continued Survival Depends On It! So Once More, For Humanity's Sake... Dedicate Your Hearts!"
+    },
+    {
+      "id": 3,
+      "name": "Levi Ackerman",
+      "img": "https://i1.wp.com/craffic.co.in/wp-content/uploads/2021/09/captain-levi.jpg?resize=696%2C392&ssl=1",
+      "regiment": "Scout",
+      "quotes": "The only thing we’re allowed to do is believe that we won’t regret the choice we made."
+    },
+    {
+      "id": 4,
+      "name": "Hange Zoë",
+      "img": "https://otakukart.com/wp-content/uploads/2021/10/Hange_makes_an_opening_for_Mikasa.jpg",
+      "regiment": "Scout",
+      "quotes": "I Led Us All To This Point. I Kept Moving Forward, Even If It Meant Killing So Many Of My Comrades. It's Time I Take Responsibility For That."
+    },
+    {
+      "id": 5,
+      "name": "Dot Pixis",
+      "img": "https://i.pinimg.com/originals/38/4a/bc/384abcf51d55f6272bf047b93e84cfba.jpg",
+      "regiment": "Garrison",
+      "quotes": "I Led Us All To This Point. I Kept Moving Forward, Even If It Meant Killing So Many Of My Comrades. It's Time I Take Responsibility For That."
+    },
+    {
+      "id": 6,
+      "name": "Mikasa Ackerman",
+      "img": "https://wegotthiscovered.com/wp-content/uploads/2022/03/attack-on-titan-mikasa.jpg",
+      "regiment": "Scout",
+      "quotes": "If You Think It's Natural For People To Die For Others. I'm Sure You'll Understand That At Times, The Sacrifice Of A Single Precious Life Can Save Many Others."
+    },
+    {
+      "id": 7,
+      "name": "Connie Springer",
+      "img": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/07/Conny.jpg?q=50&fit=crop&w=943&h=500&dpr=1.5",
+      "regiment": "Scout",
+      "quotes": "I...want to become a soldier my mother would be proud of. So...let's go and save some people in trouble."
+    },
+    {
+      "id": 8,
+      "name": "Floch Forster",
+      "img": "https://cdn.technadu.com/wp-content/uploads/2022/03/Floch_aims_at_the_ship.webp",
+      "regiment": "Yagerist",
+      "quotes": "If Eren dies, Paradis will sink under a sea of blood!! The entire world will take vengeance on us! Your parents, your siblings, your children, they'll all be slaughtered!! Devote your hearts!!"
+    },
+    {
+      "id": 9,
+      "name": "Sasha Braus",
+      "img": "https://i.pinimg.com/564x/e0/76/cd/e076cda4ac938cfa5e52c39ee8cf62fa.jpg",
+      "regiment": "Scout",
+      "quotes": "It'll Be Fine, I'm Willing To Share. Oh, Can You Imagine The Sandwiches?"
+    },
+    {
+      "id": 10,
+      "name": "Armin Arlert",
+      "img": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/03/Attack-on-Titan-Armin-Season-4-New-Haircut-Feature-Image.jpg?q=50&fit=crop&w=943&h=500&dpr=1.5",
+      "regiment": "Scout",
+      "quotes": "A person who cannot sacrifice everything, cannot change anything."
+    }
+  ]
+}
