@@ -34,7 +34,24 @@ function TitanCard ({titan}) {
                     <p className="card__text">Allegiance: {titan.nation}</p>
                 <div className="card__detail">
                     <br></br>
-                        <button onClick={clickHandler}>More Info</button>
+                    <div className='bttn-body'>
+                        <div className="btn-slice" onClick={clickHandler}>
+                            <div className="top"><span>More Info</span></div>
+                            <div className="bottom"><span>More Info</span></div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
                 </div>
             </div>
