@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import {useState} from 'react'
+import {useState, useEffect} from 'react'
 import SolvedButton from "./SolvedButton";
 
 function RiddleSearchBar ({setSubmit1State, setSubmit2State}) { 
@@ -8,8 +8,11 @@ function RiddleSearchBar ({setSubmit1State, setSubmit2State}) {
     function formSubmitHandler (e) {
             e.preventDefault()
             setSubmit1State(riddleState)
-            setSubmit2State(riddleState)
     }
+
+    // useEffect(()=> {
+    //     setSubmit2State(riddleState)
+    // }, [formSubmitHandler])
 
 
 

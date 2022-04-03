@@ -31,7 +31,7 @@ function ScoutsList() {
 console.log(searchTerm)
 
     return(
-        <div>
+        <div className="scout-list">
         <label htmlFor="signUpButton">Join the Scouts today!</label>
         <Link to="/home/sign-up">
         <button>Sign Up Here!</button>

@@ -244,6 +244,34 @@ ul#horizontal-list li {
   background-color: #A0B2A6;
 }
 
+.scout-list {
+  background-color: #A0B2A6;
+}
+
+.signup-box {
+  display: flexbox;
+  margin:15px;
+  width: fit-content;
+  padding:0 50px;
+  background:#ddd;
+  border:1px solid #222;
+  box-shadow:8px 6px 10px #222;
+  background-color: #D66853;
+}
+
+.scout-signup{
+  position: relative;
+  display: flex;
+  padding: 0 40%;
+  background-color: #A0B2A6;
+  height: auto;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  flex: 0 1 auto;
+}
+
+
 .ability-selector{
   
 }

@@ -4,11 +4,14 @@ import SolvedButton from "./SolvedButton";
 
 function Level2 () {
     const [submit2State, setSubmit2State]=useState("")
-    console.log(submit2State)
+
+    function riddleStateHoist () {
+        // use this function to grab riddleState from RiddleSearchBar and lift back to Level2.
+    }
 
     return(
         <div className="level1">
-            What is the beginning of eternity, the end of time and space, the beginning of every end and the end of every race?
+            What is always on its way here, but never arrives?
             <br></br>
             <br></br>
             <br></br>
