@@ -2,7 +2,7 @@
     "Titans": [
      {"id": 1,
             "name": "Armored Titan" ,
-            "img": "https://i.imgur.com/gJvXoHVb.jpg",
+            "img": "https://i.pinimg.com/originals/9e/d2/e1/9ed2e18700254fecdefb7a449f79bf49.jpg",
             "abilities": {
                 "ability1": {
                     "ability": "Armored Skin",
@@ -21,7 +21,7 @@
             },
      {"id": 2,
         "name": "Colossus Titan" ,
-        "img": "https://i.imgur.com/TZafGsM.jpeg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kwDKD83NbbF91_vNZLayadeDoAmF-_8gcA&usqp=CAU",
         "abilities": {
             "ability1": {
                 "ability": "Explosive Transformation",
@@ -40,7 +40,7 @@
         }, 
      {"id":3,
         "name": "Attack Titan",
-        "img": "https://i.imgur.com/c3He3pbb.jpg",
+        "img": "https://www.cnet.com/a/img/resize/7de469c5ccfd067f5975ee341b2af0b34b47db74/2022/01/07/18439ff0-d202-4d93-b233-3e203a7617fd/aot-f2-pv02-00-01-11-06-still075.jpg?auto=webp&width=940",
         "abilities": {
             "ability1": {
                  "ability": "Future memory inheritance",
@@ -97,7 +97,7 @@
         },
     {"id": 6,
         "name": "Cart Titan",
-        "img": "https://i.imgur.com/IQ9J2Sz.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0sjcjgsQIfveDrCYnaCWGdwSNaEgQLLwUg&usqp=CAU",
         "abilities": {
             "ability1": {
                 "ability": "Quadurpedal form",
@@ -116,7 +116,7 @@
         },
     {"id": 7,
         "name": "Beast Titan" ,
-        "img": "https://i.imgur.com/hyU5JI4.jpeg",
+        "img": "data:image/jpeg;base64,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",
         "abilities": {
             "ability1": {
                 "ability": "Fastball",
@@ -135,7 +135,7 @@
         },
      {"id": 8,
         "name": "WarHammer Titan" ,
-        "img": "https://i.imgur.com/YQJlae8.png",
+        "img": "https://moovyscooby.com/wp-content/uploads/2022/03/warhammer-featured-lara-1-1200x628.jpg",
         "abilities": {
             "ability1": {
                 "ability": "Remote Operation",
