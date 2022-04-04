@@ -20,9 +20,6 @@ function NavBar () {
                 <li>
                     <a href="http://localhost:3000/level1">If you Dare</a>
                 </li>
-                <li>
-                    <a href="http://localhost:3000/RewardPage"> temp</a>
-                </li>
             </ul>
         </div>
     </div>
