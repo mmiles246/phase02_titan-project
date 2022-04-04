@@ -71,7 +71,7 @@ function TitanCard ({titan}) {
             <div className="card__title">{titan.name}</div>
                 <p className="card__text">Allegiance: {titan.nation}</p>
             <div className="card__detail">
-                <label htmlFor="abilitySelect">Abilities: </label>
+                <label className='ability-text' htmlFor="abilitySelect">Abilities: </label>
                 <select className='ability-selector' onChange={abilityChangeHandler} id="abilitySelect" >
                     <option value={titan.abilities.ability1.ability}>{titan.abilities.ability1.ability}</option>
                     <option value={titan.abilities.ability2.ability}>{titan.abilities.ability2.ability}</option>

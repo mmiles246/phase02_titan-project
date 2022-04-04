@@ -121,9 +121,10 @@ ul#horizontal-list li {
   
   flex: 1 1 auto;
   font-size: 0.875rem;
+  text-align: center;
   line-height: 1.5;
   margin-bottom: 1.25rem;
-  font-family: 'sketch-gothic';
+  font-family: 'angel-wish';
 }
 
 .card__detail {
@@ -273,7 +274,15 @@ ul#horizontal-list li {
 
 
 .ability-selector{
-  
+  font-family: 'angel-wish';
+  background-color: #2E6171;
+  border: #361D2E;
+  border: 1px;
+  border-style: double;
+}
+
+.ability-text{
+  font-family: 'angel-wish';
 }
 
 
