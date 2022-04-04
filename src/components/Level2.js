@@ -1,13 +1,12 @@
 import RiddleSearchBar from "./RiddleSearchBar"
 import {useState} from 'react'
 import SolvedButton from "./SolvedButton";
+import Level2SolvedButton from "./Level2SolvedButton"
+import Level2SearchBar from "./Level2SearchBar";
 
 function Level2 () {
-    const [submit2State, setSubmit2State]=useState("")
+    const [level2Submit, setLevel2Submit]=useState('')
 
-    function riddleStateHoist () {
-        // use this function to grab riddleState from RiddleSearchBar and lift back to Level2.
-    }
 
     return(
         <div className="level1">
@@ -16,8 +15,8 @@ function Level2 () {
             <br></br>
             <br></br>
             <br></br>
-            <RiddleSearchBar setSubmit2State={setSubmit2State} />
-            <SolvedButton submit2State={submit2State} />
+            <Level2SearchBar setLevel2Submit={setLevel2Submit}/>
+            <Level2SolvedButton level2Submit={level2Submit}/>
         </div>
     )
 }
